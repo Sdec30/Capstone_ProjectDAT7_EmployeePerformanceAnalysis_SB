@@ -128,6 +128,6 @@ Importance of Logistic Regression for This Dataset: Linear regression, which is 
 
 In summary, for datasets where the dependent variable is categorical, like our performance ratings, logistic regression offers a more relevant and effective analytical approach compared to linear regression.
 
-# message for the Human resources and companies 
+# Message for the Human resources and companies 
 
 To optimize employee performance, it's pivotal to provide an ergonomic workspace and foster an inclusive culture. Regular salary assessments aligned with market standards, combined with performance incentives, ensure competitive compensation. Emphasizing work-life balance with flexible hours and remote work options is crucial, as is continuous learning. Frequent feedback, data-driven decision-making, cross-department collaboration, timely recognition, and clarity in career progression are all instrumental in enhancing overall employee satisfaction and performance.
