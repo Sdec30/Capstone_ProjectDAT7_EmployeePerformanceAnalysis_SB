@@ -78,10 +78,6 @@ Implications: A very high satisfaction level is indicative of a workplace that t
 
 ![image](https://github.com/Sdec30/Capstone_ProjectDAT7_EmployeePerformanceAnalysis_SB/assets/140704907/073419eb-c222-4c52-8b95-9dfd46769ab1)
 
-EmpWorkLifeBalance - Assessment of work-life balance, ranked (1. Bad, 2. Good, 3. Better, 4. Best).
-
-PerformanceRating - Employee's performance rating, ranked (1. Low, 2. Good, 3. Excellent, 4. Outstanding).
-
 **Employees with a Salary Hike Percentage of 11-19%**
 
 Observation: A majority of employees who received a salary hike in the range of 11-19% have been observed to receive performance ratings of 2 (Good) and 3 (Excellent).
@@ -108,13 +104,9 @@ By giving them such a hike, the company is not only rewarding their stellar perf
 
 EmpWorkLifeBalance - Assessment of work-life balance
 
-ranking;
+EmpWorkLifeBalance - Assessment of work-life balance, ranked (1. Bad, 2. Good, 3. Better, 4. Best).
 
-Bad
-Good
-Better
-Best
-Interpretation
+PerformanceRating - Employee's performance rating, ranked (1. Low, 2. Good, 3. Excellent, 4. Outstanding).
 
 This heatmap shows that employees with a 'Better' work-life balance rating (level 3) tend to have excellent performance ratings, this suggests several insights:
 
