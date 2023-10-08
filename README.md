@@ -54,19 +54,19 @@ ranking score means;
 
 Description: Employees who rank their satisfaction as "Low" are generally unhappy or discontent with their working environment. This might be due to a number of reasons such as inadequate facilities, poor ergonomics, excessive noise, lack of cleanliness, or other factors that affect their comfort and ability to work productively.
 
-Implications: Low satisfaction often leads to decreased morale, lower productivity, and potentially higher turnover. It's crucial for management to identify the causes and work towards improving the working conditions. Medium:
+Implications: Low satisfaction often leads to decreased morale, lower productivity, and potentially higher turnover. It's crucial for management to identify the causes and work towards improving the working conditions. 
 
 **Medium: 20.2%**
 
 Description: A "Medium" rank indicates that employees find their working environment to be average. They might have certain elements they are happy with, but there might be areas of improvement. They neither feel too discontent nor too pleased.
 
-Implications: Employees who rank their satisfaction as medium might not be urgently looking to leave, but they're not fully engaged either. It's a signal for management that there are areas to be improved, but the situation isn't critical. High:
+Implications: Employees who rank their satisfaction as medium might not be urgently looking to leave, but they're not fully engaged either. It's a signal for management that there are areas to be improved, but the situation isn't critical. 
 
 **High - 30.6%**
 
 Description: Employees who give a "High" rank are generally pleased with their working environment. They find most facilities and conditions to be conducive to work, and they feel comfortable in their workspace. It indicates that the organization is taking good measures to ensure employee comfort.
 
-Implications: High satisfaction levels are linked to better morale, increased productivity, and lower turnover. However, it's always beneficial for management to stay proactive and continue seeking feedback to maintain or even enhance this satisfaction level. Very High:
+Implications: High satisfaction levels are linked to better morale, increased productivity, and lower turnover. However, it's always beneficial for management to stay proactive and continue seeking feedback to maintain or even enhance this satisfaction level. 
 
 **Very High - 30.1%**
 
@@ -104,13 +104,9 @@ By giving them such a hike, the company is not only rewarding their stellar perf
 
 EmpWorkLifeBalance - Assessment of work-life balance
 
-ranking;
+EmpWorkLifeBalance - Assessment of work-life balance, ranked (1. Bad, 2. Good, 3. Better, 4. Best).
 
-Bad
-Good
-Better
-Best
-Interpretation
+PerformanceRating - Employee's performance rating, ranked (1. Low, 2. Good, 3. Excellent, 4. Outstanding).
 
 This heatmap shows that employees with a 'Better' work-life balance rating (level 3) tend to have excellent performance ratings, this suggests several insights:
 
